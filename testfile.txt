@@ -1,0 +1,9 @@
+Edit
+Undo
+Redo
+Cut
+Copy
+Paste
+Delete
+Select All
+Options
